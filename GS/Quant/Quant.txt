@@ -1,0 +1,50 @@
+Number System
+1. LCM and HCF
+2. Divisibility Rules
+3. Base Change
+4. Finding Units place and 
+   tens place of a number
+5. Cyclicity
+6. Remainders
+7. Prime Factorisation
+8. Factorials
+9. Indices and Surds
+
+Arithmetic
+1. Time, Distance and Speed
+2. Time and Work, Pipes and Cisterns
+3. Simple Interest and Compound Interest
+4. Ratios, Proportions and Variations
+5. Percentages and Averages
+6. Profit and Loss, Discount
+7. Mixtures and Alligations
+
+Geometry and Mensuration
+1. Circles
+2. Triangles
+3. Polygons
+4. Coordinate geometry
+5. Lines and Angles
+6. Trigonometry
+7. Cone
+8. Cylinder
+9. Sphere
+10. Cube/Cuboid
+11. Prism Pyramid
+
+Algebra
+1. Inequalities and Modulus
+2. Functions and Groups
+3. Linear and Quadratic Equations
+4. Polynomials
+5. Logarithms
+6. Algebraic Identities
+7. Maxima and Minima
+
+Modern Mathematics
+1. Permutations and Combinations
+2. Probability
+3. Set Theory & Venn Diagram
+4. Binomial Theorem
+5. Arithmetic progression, Geometric progression, 
+   Harmonic progression

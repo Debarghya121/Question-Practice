@@ -1,0 +1,10 @@
+01. Agronomy
+02. Soil Science
+03. Horticulture
+04. Pathology
+05. Entomology
+06. Genetics & Plant Breeding
+07. Extension
+08. Economics
+09. Agri Engineering
+10. Other Subjects

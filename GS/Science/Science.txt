@@ -1,0 +1,33 @@
+PHYSICS 
+1. Measurements & Motion 
+2. Laws of Motion, Force, Work, Energy & Power 
+3. Force of Gravity, Solids & Fluids 
+4. Sound, Oscillations, Heat & Thermodynamics 
+5. Electricity, Magnetism & Light
+6. Modern physics & Sources of energy  
+
+CHEMISTRY 
+1. Chemistry, Matter & its Composition  
+2. Atoms, Molecules & Nuclear Chemistry 
+3. Elements Classification & Chemical Bonding 
+4. Acids, Bases, Salts & Metals  
+5. Non - Metals 
+6. Organic Chemistry 
+7. Environmental Chemistry
+
+BIOLOGY
+1. Biological Classification/ Cell & its Division 
+2. Genetics & Biotechnology  
+3. Evolution and Ecological Biodiversity  
+4. Tissue, Physiology of Plants and Animals  
+5. Reproduction  
+6. Nutrition, Health and Diseases 
+7. Food Production 
+
+SCIENCE & TECHNOLOGY 
+1. Computer and Technology 
+2. Communication 
+3. Defence  
+4. Space Technology 
+5. Energy 
+6. Nuclear Science

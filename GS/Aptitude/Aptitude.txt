@@ -1,0 +1,63 @@
+Data Interpretation
+1. Tables
+2. Data Caselets – Reasoning-Based DI
+3. Column Graphs
+4. Bar Graphs
+5. Venn Diagrams
+6. Line Charts
+7. Pie Charts
+8. Scatter Plot
+9. Radar Chart
+10. Routes and Network
+11. Bubble Chart
+
+Logical Reasoning
+1. Binary Logic
+2. Games and Tournaments
+3. Arrangements
+4. Team Formations
+5. Order and Ranking
+
+Verbal Ability and Reading Comprehension
+1. Para Jumbles (with and without options)
+2. Para Summary
+3. Odd One Out
+4. Reading Comprehension
+5. Para Completion
+
+
+
+Part A : Verbal Reasoning 
+1. Number Series Completion 
+2. Alpha Series Completion
+3. Linear Arrangement
+4. Matrix Arrangement
+5. Circular Arrangement
+6. Blood Relation
+7. Input Output
+8. Eligibility Test
+9. Distance and Direction
+10. Analogy
+11. Data Sufficiency  
+12. Inequality
+13. Statement and Assumptions 
+14. Statement and Arguments 
+15. Statement and Course of Action 
+16. Syllogism
+17. Clocks 
+18. Cubes
+19. Calender 
+20. Games and Tournament
+21. Logical Connectivity 
+22. Classification
+
+
+Part B : Non-Verbal Reasoning 
+1. Series Completion  
+2. Analogy and Classification  
+3. Mirror Image and Water Image
+4. Paper Cutting and Folding 
+5. Completion of Incompletion Pattern  
+6. Counting of Figures and 
+   Hidden Embedded Figures  
+7. Cubes and Dices 
